@@ -21,8 +21,8 @@ Azure tarjoaa seuraavia ominaisuuksia:
     tietokanta), **Azure Database for MySQL** ja **PostgreSQL**, ja paljon muuta.
 
 ##  4. Verkko 
-    Azure tarjoaa monenlaisia verkkopalveluita, kuten **Virtual Network** (*virtuaalinen verkko*), **Load Balancer** (*kuormanjakaja*),
-    **VPN Gateway** (*VPN-yhdyskäytävä*), **Application Gateway** (*sovellusyhdyskäytävä*) ja paljon muuta.
+    Azure tarjoaa monenlaisia verkkopalveluita, kuten **Virtual Network** (virtuaalinen verkko), **Load Balancer** (kuormanjakaja),
+    **VPN Gateway** (VPN-yhdyskäytävä), **Application Gateway** (sovellusyhdyskäytävä) ja paljon muuta.
 
 ##  5. Analytiikka ja AI
     Azure tarjoaa monenlaisia analytiikka- ja tekoälypalveluita, kuten **Azure Machine Learning**, **Azure Databricks** (*big data -analytiikka*), **Azure Cognitive Services** (*tekoälypalvelut*) ja paljon muuta.
